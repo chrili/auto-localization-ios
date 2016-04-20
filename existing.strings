@@ -1,0 +1,8 @@
+/* Comment for existing 1 */
+"Existing 1" = "Translated 1";
+
+/* Comment for existing 2 */
+"Existing 2" = "Translated 2";
+
+/* Brand new comment */
+"New" = "Translated New";

@@ -1,0 +1,11 @@
+/* Comment for existing 1; Suggestions: Val1 */
+"Existing 1" = "Translated 1";
+
+/* UPDATED Comment for Existing 2 */
+"Existing 2" = "Translated 2";
+
+/* Comment for Hello; Suggestions: Val2 */
+"Hello" = "Hello";
+
+/* Brand new comment */
+"New" = "Translated New";
